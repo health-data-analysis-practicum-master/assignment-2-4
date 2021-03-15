@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Due Sunday, March 29 @ midnight through Github**
+**Due Sunday, March 28 @ midnight through Github**
 
 Write up your final report to answer the questions:
 
@@ -33,7 +33,8 @@ What is an effective way of illustrating how the results of the weighted and unw
 
 Finally, try to make your report as readable as possible: hide any R code or warning messages, try to make the tables readable, etc. 
 
-* Submit your updated analysis report in R Markdown through Github by Sunday March 29, 2020 at midnight.
+* Submit your updated analysis report in R Markdown through Github by Sunday March 28, 2021 at midnight.
+* Post a screenshot of some aspect of your final project that you think is particularly interesting on Piazza in the "Assignment 2-4 Results" thread.  Add a sentence or two about what you can conclude based on your analysis. You are welcome to post this anonymously to your classmates. You can also include comments about what your chose to do or questions you had as you were making the display and fitting your model.
 * You may work together on this assignment, but you must submit your own report; please credit in your assignment anyone with whom you collaborated.
 
 You should complete this assignment in this .Rmd file.  Any text you want to include should be written outside of the code chunks.  Any code must be written inside of the code chunks.
