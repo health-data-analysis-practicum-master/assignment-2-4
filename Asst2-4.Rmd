@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Due Sunday, March 28 @ midnight through Github**
+**Due Monday, March 28 @ midnight through Github**
 
 Write up your final report to answer the questions:
 
@@ -21,7 +21,7 @@ Write a complete report investigating the questions of interest from this module
 
 * Some simple/concise background on the data set and a clear presentation of the question you want to answer;
 * An exploratory data analysis, where you use data visualizations (tables and figures) to illustrate relationships between variables in the data set, as they relate to the question you are interested in answering, and then discuss what these visualizations tell you;
-* Model results presented in a tidy way, perhaps with a nice table of relevant coefficients and p-values, including a clear discussion of the effects of the variables included in the model;
+* A description of your modeling approach (what method you are using) and model results presented in a tidy way, perhaps with a nice table of relevant coefficients and p-values, including a clear discussion of the effects of the variables included in the model;
 * A comparison of results from the survey-weighted model to those from a standard glm, and a brief discussion of what you see.
 
 
@@ -31,9 +31,11 @@ Also, think about justifying each choice of variable in your model: can you use 
 
 What is an effective way of illustrating how the results of the weighted and unweighted approaches compare?
 
+As much as possible, include specific numeric support for each statement that you make, such as odds ratios, confidence intervals and/or p-values.
+
 Finally, try to make your report as readable as possible: hide any R code or warning messages, try to make the tables readable, etc. 
 
-* Submit your updated analysis report in R Markdown through Github by Sunday March 28, 2021 at midnight.
+* Submit your updated analysis report in R Markdown through Github by Monday March 28, 2022 at midnight.
 * Post a screenshot of some aspect of your final project that you think is particularly interesting on Piazza in the "Assignment 2-4 Results" thread.  Add a sentence or two about what you can conclude based on your analysis. You are welcome to post this anonymously to your classmates. You can also include comments about what your chose to do or questions you had as you were making the display and fitting your model.
 * You may work together on this assignment, but you must submit your own report; please credit in your assignment anyone with whom you collaborated.
 
