@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Due Monday, March 28 @ midnight through Github**
+**Due Monday, March 27 @ midnight through Github**
 
 Write up your final report to answer the questions:
 
